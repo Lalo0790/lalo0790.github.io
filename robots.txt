@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lalo0790.github.io/sitemap.xml
